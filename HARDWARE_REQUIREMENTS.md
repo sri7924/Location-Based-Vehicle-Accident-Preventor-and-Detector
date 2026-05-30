@@ -1,0 +1,11 @@
+# Hardware Requirements
+- ESP32
+- Arduino UNO
+- HC-SR04 Ultrasonic Sensor
+- NEO6M GPS Module
+- SIM800L GSM Module
+- MPU6050
+- Vibration Sensor
+- Breadboard
+- Jumper Wires
+- Battery Pack
